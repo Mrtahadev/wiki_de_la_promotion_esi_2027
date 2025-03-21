@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wiki_de_la_promotion_esi_2027/static/css/main.a37d95ea.css",
+    "main.js": "/wiki_de_la_promotion_esi_2027/static/js/main.9504341e.js",
+    "index.html": "/wiki_de_la_promotion_esi_2027/index.html",
+    "main.a37d95ea.css.map": "/wiki_de_la_promotion_esi_2027/static/css/main.a37d95ea.css.map",
+    "main.9504341e.js.map": "/wiki_de_la_promotion_esi_2027/static/js/main.9504341e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a37d95ea.css",
+    "static/js/main.9504341e.js"
+  ]
+}
